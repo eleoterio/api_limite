@@ -1,0 +1,27 @@
+{
+  "name": "part-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eleoterio/api_limite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eleoterio/api_limite/issues"
+  },
+  "homepage": "https://github.com/eleoterio/api_limite#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "request": "^2.88.0",
+    "should": "^13.2.3"
+  }
+}
